@@ -15,3 +15,11 @@
   * 4x 3030 TNuts M6
   * 1x M4x10 screw (8mm should also do it)
   * 1x 2020 TNut M4
+
+## Printed files
+
+The front files should all be printe 2x - follow the default directions for printing ratrig parts.
+
+The back files only 1 file
+
+Use the **Back_Spacer_If_NoBasePlate.stl** if you dont have a 4mm base plate on the back mount
