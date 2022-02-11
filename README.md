@@ -1,4 +1,8 @@
-# Instructions
+# VCore 3 Rigid motor mounts
+
+I had some issues with my original PETG parts was sacking a bit, now i have modified theese parts and reprinted them i ABS (Sure they will be way better than PETG already) but i wanted to remove the posibility for them to sack again.
+
+## BOM
 
 * Front
   * 2x 2020 115mm
